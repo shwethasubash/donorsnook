@@ -1,0 +1,38 @@
+.notfcn-card {
+    min-height: 75vh;
+    background: rgb(250, 247, 247);
+    background: rgb(83, 83, 83);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 300px;
+    overflow: auto;
+}
+.header{
+    margin-top: 20px;
+}
+.style {
+    margin: 6px;
+    padding: 8px
+}
+.notification{
+    text-align: left;
+}
+.timestamp{
+    text-align: right;
+}
+.custom-button{
+    color: #fff;
+    background-color: Black;
+    border-color: #5cdb95;
+    float: right;
+}
+.custom-button:hover,
+.open>.dropdown-toggle.custom-button {
+    color: #fff;
+    background-color: #2a283d;
+    border-color: #5cdb95;
+}
+hr{
+    border-top: 1px solid black;
+}
+

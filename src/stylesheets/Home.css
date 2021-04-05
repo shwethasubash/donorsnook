@@ -1,0 +1,39 @@
+h1, h5{
+    color: Black;
+}
+.drak-blue-bg {
+    background: #283043;
+}
+
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+.nos-section .container {
+    padding: 2.375rem 1.5rem;
+}
+.nos-section li {
+    font-size: 2.5rem;
+    font-weight: 700;
+    width: 70%;
+}
+.nos-section li, .nos-section ul {
+    list-style-type: none;
+}
+.donors {
+    color: #1a1818;
+}
+.ngos {
+    color: #f88101;
+}
+.amount {
+    color: #057899;
+}
+img.resize {
+    width:1440px;
+    height:650px;
+}

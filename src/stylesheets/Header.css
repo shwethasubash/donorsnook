@@ -1,0 +1,16 @@
+.header-info{
+    color: #00ffff !important;
+    margin-top: -6px;
+}
+.header-info:hover {
+    color: white !important;
+}
+.slogan{
+    margin-top: -15px;
+    margin-left: 15px;
+    font-size: small;
+    color: #5cdb95 !important;
+}
+.slogan:hover {
+    color: white !important;
+}

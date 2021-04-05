@@ -1,0 +1,60 @@
+.btn-primary {
+    color: #fff;
+    background-color: Black;
+    border-color: #5cdb95;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #2a283d;
+    border-color: #5cdb95;
+}
+
+.btn-primary:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+}
+
+.signup-card {
+    min-height: 60vh;
+    background: rgb(100,205,138);
+    background: rgb(83, 83, 83);
+/*    background-color: #5cdb95;
+    border-color: #66FF66;*/
+    margin-top: 1000px;
+    margin-bottom: 100px;
+}
+
+.form{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.select-style{
+    background-color: Black;
+}
+
+input[type]:focus {
+    border: 2px solid #5cdb95;
+}
+
+form label {font-weight:bold}
+
+.loginText {
+    color: Black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.emailHelp {
+    color: Black;
+}
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+
+.error-msg {
+    color: purple;
+    margin: 5px 0;
+}

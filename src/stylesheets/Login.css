@@ -1,0 +1,11 @@
+.login-card {
+    min-height: 50vh;
+    background: lightgrey;
+    margin-bottom: 120px;
+}
+.registerMessage {
+    margin-top: 2vh;
+}
+.forgot-password{
+    margin-top: 2vh;
+}
